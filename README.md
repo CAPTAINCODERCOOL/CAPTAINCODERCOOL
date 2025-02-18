@@ -48,4 +48,5 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=CAPTAINCODERCOOL&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCODERCOOL&langs_count=10&layout=compact&theme=vision-friendly-dark)
+
