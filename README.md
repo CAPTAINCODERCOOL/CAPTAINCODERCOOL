@@ -15,6 +15,18 @@ I'm enhancing my skills in data science, advancing my expertise in Python and Ja
 ### 💬 Discuss My Work:
 Ask me about my sign language detection system, which processes real-time data to translate sign language into text with over 95% accuracy, showcasing my commitment to accessibility and innovative solutions.
 
+### 📚 My Publications
+
+I am committed to contributing to the expansion of knowledge in my field through scholarly work. Here are some highlights from my published works:
+
+- **New-Age E-voucher Utility: Redefining Peer-to-Peer Transactions in the Digital Economy**  
+  This publication delves into the transformative effects of digital technologies on peer-to-peer transactions, with a focus on e-vouchers in the digital economy. It examines the enhancements in transaction security and operational efficiency, providing insights into the evolving landscape of digital payments.  
+  [Read more](https://journals.stmjournals.com/ijcsl/article=2024/view=180933/)
+
+- **Sign Language Recognition System (Based on Gesture and Audio)**  
+  This book discusses the development of an innovative sign language recognition system that integrates gesture and audio data, aimed at improving communication accessibility for the deaf and hard-of-hearing community. The approach significantly enhances the precision and responsiveness of sign language interpretation.  
+  [Explore the book](https://link.springer.com/book/10.1007/978-981-97-8631-2)
+
 ### 🌐 Let's Connect:
 Connect with me on LinkedIn to explore my professional journey and discuss potential collaborations.
 
