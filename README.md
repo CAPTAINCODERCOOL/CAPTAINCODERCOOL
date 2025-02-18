@@ -51,6 +51,7 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ![Sign Language Detection System](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sign-Language-Detection-System-using-Gesture-Audio&theme=algolia)
 ![Sustain Eats Making Every Bite Count](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sustain-Eats-Making-Every-Bite-Count&theme=algolia)
 ![Optimized Rod Cutting Algorithm Suite](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Optimized-Rod-Cutting-Algorithm-Suite&theme=algolia)
-![Gemini-based Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Gemini-based-Chatbot&theme=algolia)
+![Sustain Eats Making Every Bite Count](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sustain-Eats-Making-Every-Bite-Count&theme=algolia)
+
 
 
