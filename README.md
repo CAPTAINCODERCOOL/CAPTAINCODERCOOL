@@ -48,10 +48,12 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repos:
-![Sign Language Detection System](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sign-Language-Detection-System-using-Gesture-Audio&theme=algolia)
-![Sustain Eats Making Every Bite Count](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sustain-Eats-Making-Every-Bite-Count&theme=algolia)
-![Optimized Rod Cutting Algorithm Suite](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Optimized-Rod-Cutting-Algorithm-Suite&theme=algolia)
-![Gemini-based Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Gemini-based-Chatbot&theme=algolia)
+
+- **[Sign Language Detection System](https://github.com/CAPTAINCODERCOOL/Sign-Language-Detection-System-using-Gesture-Audio)** - A project combining gesture recognition and audio processing for seamless communication. Utilizes advanced computer vision and NLP.
+
+- **[Optimized Rod Cutting Algorithm Suite](https://github.com/CAPTAINCODERCOOL/Optimized-Rod-Cutting-Algorithm-Suite)** - Explores and implements various rod cutting algorithms, analyzing performance and efficiency.
+
+- **[Gemini-based Chatbot](https://github.com/CAPTAINCODERCOOL/Gemini-based-Chatbot)** - A chatbot powered by Gemini with advanced parameter tuning for personalized interaction.
 
 
 
