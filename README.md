@@ -28,14 +28,6 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ## 💻 Tech Stack:
 I work with a wide range of technologies, including C++, HTML5, Java, JavaScript, Kotlin, PHP, Python, R, TypeScript, and various frameworks and platforms such as AWS, Azure, Firebase, Netlify, Oracle, React, Node.js, and more.
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CAPTAINCODERCOOL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CAPTAINCODERCOOL&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCODERCOOL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=CAPTAINCODERCOOL&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
