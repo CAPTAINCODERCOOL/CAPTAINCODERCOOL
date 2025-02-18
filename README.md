@@ -55,6 +55,7 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 
 - **[Gemini-based Chatbot](https://github.com/CAPTAINCODERCOOL/Gemini-based-Chatbot)** - A chatbot powered by Gemini with advanced parameter tuning for personalized interaction.
 
+- **[Sustain Eats Making Every Bite Count](https://github.com/CAPTAINCODERCOOL/Sustain-Eats-Making-Every-Bite-Count)** - A project aimed at enhancing food sustainability through innovative use of Oracle database technologies to optimize food distribution and reduce waste.
 
 
 
