@@ -48,5 +48,8 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repos:
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCODERCOOL&langs_count=10&layout=compact&theme=vision-friendly-dark)
+![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sign-Language-Detection-System-using-Gesture-Audio&theme=algolia)
+![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Sustain-Eats-Making-Every-Bite-Count&theme=algolia)
+![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Optimized-Rod-Cutting-Algorithm-Suite&theme=algolia)
+![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=CAPTAINCODERCOOL&repo=Portfolio&theme=algolia)
 
