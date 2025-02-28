@@ -50,9 +50,6 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCODERCOOL&langs_count=10&layout=compact&theme=algolia)
-
 ### 🔝 Top Contributed Repos:
 
 - **[Sign Language Detection System](https://github.com/CAPTAINCODERCOOL/Sign-Language-Detection-System-using-Gesture-Audio)** - A project combining gesture recognition and audio processing for seamless communication. Utilizes advanced computer vision and NLP.
