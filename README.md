@@ -16,7 +16,6 @@ I'm enhancing my skills in data science, advancing my expertise in Python and Ja
 Ask me about my sign language detection system, which processes real-time data to translate sign language into text with over 95% accuracy, showcasing my commitment to accessibility and innovative solutions.
 
 ### 📚 My Publications
-
 I am committed to contributing to the expansion of knowledge in my field through scholarly work. Here are some highlights from my published works:
 
 - **New-Age E-voucher Utility: Redefining Peer-to-Peer Transactions in the Digital Economy**  
@@ -32,10 +31,6 @@ Connect with me on LinkedIn to explore my professional journey and discuss poten
 
 ### ✨ Fun Fact:
 I thrive on using programming to solve real-world challenges, continuously seeking out new technologies to refine solutions.
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragpatil04) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_4_chirag)
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -55,9 +50,8 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAINCODERCOOL&langs_count=10&layout=compact&theme=algolia)
 
 ### 🔝 Top Contributed Repos:
 
@@ -68,3 +62,6 @@ I thrive on using programming to solve real-world challenges, continuously seeki
 - **[Gemini-based Chatbot](https://github.com/CAPTAINCODERCOOL/Gemini-based-Chatbot)** - A chatbot powered by Gemini with advanced parameter tuning for personalized interaction.
 
 - **[Sustain Eats Making Every Bite Count](https://github.com/CAPTAINCODERCOOL/Sustain-Eats-Making-Every-Bite-Count)** - A project aimed at enhancing food sustainability through innovative use of Oracle database technologies to optimize food distribution and reduce waste.
+
+### ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
