@@ -10,7 +10,7 @@ I'm keen to collaborate on projects that leverage AI, machine learning, and comp
 I'm actively seeking to expand my knowledge in generative AI and statistical modeling. I appreciate insights from experts in these areas to further groundbreaking projects.
 
 ### 📘 Currently Learning:
-I'm enhancing my skills in data science, advancing my expertise in Python and Java, and exploring cloud solutions for scalable AI applications. and progressing my journey in Full Stack Development.
+I'm enhancing my skills in data science, advancing my expertise in Python and Java, and exploring cloud solutions for scalable AI applications. and progressing my journey in Full Stack Development .
 
 ### 💬 Discuss My Work:
 Ask me about my sign language detection system, which processes real-time data to translate sign language into text with over 95% accuracy, showcasing my commitment to accessibility and innovative solutions.
