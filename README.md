@@ -28,6 +28,7 @@ I am committed to contributing to the expansion of knowledge in my field through
 
 ### 🌐 Let's Connect:
 Connect with me on LinkedIn to explore my professional journey and discuss potential collaborations.
+- [LinkedIn Profile](https://www.linkedin.com/in/chiragpatil04/)
 
 ### ✨ Fun Fact:
 I thrive on using programming to solve real-world challenges, continuously seeking out new technologies to refine solutions.
